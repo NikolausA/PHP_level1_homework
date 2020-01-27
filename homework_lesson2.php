@@ -104,7 +104,4 @@ function mathOperation($arg1, $arg1, $operation) {
     } 
 }
 mathOperation(10, 2, "/");
-//Задание №5
-
-//Задание №6
 ?>
